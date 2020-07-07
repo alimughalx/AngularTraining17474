@@ -1,0 +1,31 @@
+.content {
+    margin: 50px auto 40px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 14px;
+    color: #333;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .form-group>div>span{
+    font-weight: bold;
+    font-size: 16px;
+  }
+  .spacer {
+    flex: 1;
+  }
+  .floatRight{
+    float: right;
+  }
+  .MainWelcome{
+    text-align: center;
+  }
+  .studentsTable{
+    margin-top: 35px;
+  }
+  .valid-feedback{
+    display: block !important;
+  }
+  .invalid-feedback{
+    display: block !important;
+  }
